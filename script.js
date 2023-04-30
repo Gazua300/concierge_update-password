@@ -2,7 +2,7 @@ const form = document.getElementById('form')
 const password = document.getElementById('password')
 const confPassword = document.getElementById('confPassword')
 const token = document.getElementById('token')
-const apiUrl = 'https://concierge-server.vercel.app/password/user'
+const apiUrl = 'https://concierge-server.vercel.app/password/client'
 
 
 const cleanFileds = ()=>{
